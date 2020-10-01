@@ -1,3 +1,4 @@
+//this is the code for co prime number
 def hcf(a,b):
     if(b==0):
         return a
